@@ -2,7 +2,8 @@
 # mind.me
 
 ### Your emotions, finally on your side. 
-For the connected repo of the webpage, visit this repo: https://calhacks-fe.vercel.app/
+For the connected repo of the webpage, visit: https://github.com/Tig-ranK/calhacks-fe
+For the deployed webpage, visit: https://calhacks-fe.vercel.app/
 
 ## What is mind.me
 Mind.me is a pioneering integrated system designed to enhance users’ emotional awareness and empower them to manage and improve their emotional well-being in both the short and long term.
