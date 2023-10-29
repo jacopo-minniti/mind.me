@@ -7,6 +7,8 @@
 Mind.me is a pioneering integrated system designed to enhance users’ emotional awareness and empower them to manage and improve their emotional well-being in both the short and long term.
 
 By collecting data from recordings, heart rate, blood pressure, and other scientifically-based predictors, it tracks your mood throughout the day, 24 hours a day. It uncovers trends and patterns which are then used to generate personalized, detailed, and specific suggestions and advice. These recommendations are interactive and genuinely useful, thanks to numerous integrations with third-party apps.
+![Presentation UI](https://github.com/jacopo-minniti/mind.me/assets/115539886/7b1ddacf-de79-44bf-b207-90c0548bcf30)
+
 
 Using Mind.me is as simple as wearing a watch. It operates in the background and never requires any input from you - it simply provides output.
 
