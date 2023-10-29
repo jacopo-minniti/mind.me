@@ -1,7 +1,7 @@
 ![Xthin Header (1)](https://github.com/jacopo-minniti/mind.me/assets/115539886/faf2fc57-c6f2-4501-bad4-03519f6a1814)
 # mind.me
 
-### The emotions finally on your side. 
+### Your emotions, finally on your side. 
 
 ## What is mind.me
 Mind.me is a pioneering integrated system designed to enhance users’ emotional awareness and empower them to manage and improve their emotional well-being in both the short and long term.
