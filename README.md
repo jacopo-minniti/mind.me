@@ -3,6 +3,7 @@
 
 ### Your emotions, finally on your side. 
 For the connected repo of the webpage, visit: https://github.com/Tig-ranK/calhacks-fe
+
 For the deployed webpage, visit: https://calhacks-fe.vercel.app/
 
 ## What is mind.me
