@@ -1,4 +1,5 @@
 ![Xthin Header (1)](https://github.com/jacopo-minniti/mind.me/assets/115539886/faf2fc57-c6f2-4501-bad4-03519f6a1814)
+[ Project Winner of two prizes at Calhacks 2023 ]
 # mind.me
 
 ### Your emotions, finally on your side. 
